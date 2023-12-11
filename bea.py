@@ -42,7 +42,7 @@ with st.container():
             """
         )
         
-    st.write("[For more information >](https://www.youtube.com/watch?v=VqgUkExPvLY)")
+    st.write("[For more information >](https://web.facebook.com/snsumainsao/?_rdc=1&_rdr)")
 with right_column:
     st_lottie(lottie_coding, height=300, key='coding')
 
